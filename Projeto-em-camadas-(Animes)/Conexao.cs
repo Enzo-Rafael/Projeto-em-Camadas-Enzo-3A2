@@ -8,5 +8,6 @@ namespace Projeto_em_camadas__Animes_
 {
     class Conexao
     {
+        //criei a classe
     }
 }
