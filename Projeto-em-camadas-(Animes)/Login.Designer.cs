@@ -59,7 +59,7 @@ namespace Projeto_em_camadas__Animes_
             this.Bconfirmar.Name = "Bconfirmar";
             this.Bconfirmar.Size = new System.Drawing.Size(87, 29);
             this.Bconfirmar.TabIndex = 2;
-            this.Bconfirmar.Text = "CONFIRMAR";
+            this.Bconfirmar.Text = "Confirmar";
             this.Bconfirmar.UseVisualStyleBackColor = true;
             this.Bconfirmar.Click += new System.EventHandler(this.Bconfirmar_Click);
             // 
@@ -93,9 +93,10 @@ namespace Projeto_em_camadas__Animes_
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(350, 118);
+            this.label3.Font = new System.Drawing.Font("Segoe UI", 80F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label3.Location = new System.Drawing.Point(210, -7);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(37, 15);
+            this.label3.Size = new System.Drawing.Size(323, 142);
             this.label3.TabIndex = 6;
             this.label3.Text = "Login";
             this.label3.Click += new System.EventHandler(this.label3_Click);

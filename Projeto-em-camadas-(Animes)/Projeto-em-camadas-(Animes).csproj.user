@@ -4,9 +4,6 @@
     <Compile Update="Animes.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Estudio.cs">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Update="inicio.cs">
       <SubType>Form</SubType>
     </Compile>

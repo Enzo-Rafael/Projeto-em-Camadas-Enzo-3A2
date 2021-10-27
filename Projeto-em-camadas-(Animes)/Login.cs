@@ -29,7 +29,8 @@ namespace Projeto_em_camadas__Animes_
 
         private void BTsair_Click(object sender, EventArgs e)
         {
-
+            if(MessageBox.Show("Você deseja sair", "Fechar", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+               this.Close();
         }
     }
 }

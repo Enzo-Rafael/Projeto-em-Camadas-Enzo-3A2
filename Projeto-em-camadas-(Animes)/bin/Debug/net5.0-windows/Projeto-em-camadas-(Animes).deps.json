@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Projeto-em-camadas-(Animes)/1.0.0": {
+        "dependencies": {
+          "MySql.Data": "8.0.25.0"
+        },
+        "runtime": {
+          "Projeto-em-camadas-(Animes).dll": {}
+        }
+      },
+      "MySql.Data/8.0.25.0": {
+        "runtime": {
+          "MySql.Data.dll": {
+            "assemblyVersion": "8.0.25.0",
+            "fileVersion": "8.0.25.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto-em-camadas-(Animes)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySql.Data/8.0.25.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
