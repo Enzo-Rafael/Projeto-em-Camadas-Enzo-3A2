@@ -26,5 +26,10 @@ namespace Projeto_em_camadas__Animes_
         {
 
         }
+
+        private void BTsair_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
