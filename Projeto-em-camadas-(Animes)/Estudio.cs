@@ -19,6 +19,11 @@ namespace Projeto_em_camadas__Animes_
 
         private void button1_Click(object sender, EventArgs e)
         {
+            // so colocando uns comentarios aleatorios
+        }
+
+        private void Bconfirmar_Click(object sender, EventArgs e)
+        {
 
         }
     }

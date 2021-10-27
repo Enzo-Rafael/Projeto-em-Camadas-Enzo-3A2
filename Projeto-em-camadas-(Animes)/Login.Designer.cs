@@ -60,6 +60,7 @@ namespace Projeto_em_camadas__Animes_
             this.Bconfirmar.TabIndex = 2;
             this.Bconfirmar.Text = "CONFIRMAR";
             this.Bconfirmar.UseVisualStyleBackColor = true;
+            this.Bconfirmar.Click += new System.EventHandler(this.Bconfirmar_Click);
             // 
             // Bregistrar
             // 
@@ -98,7 +99,7 @@ namespace Projeto_em_camadas__Animes_
             this.label3.Text = "Login";
             this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
-            // Form1
+            // Login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -110,7 +111,7 @@ namespace Projeto_em_camadas__Animes_
             this.Controls.Add(this.Bconfirmar);
             this.Controls.Add(this.TBsenha);
             this.Controls.Add(this.TBliogin);
-            this.Name = "Form1";
+            this.Name = "Login";
             this.Text = "Form1";
             this.ResumeLayout(false);
             this.PerformLayout();

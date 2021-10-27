@@ -96,6 +96,7 @@ namespace Projeto_em_camadas__Animes_
             this.Bregiscomfirmar.TabIndex = 6;
             this.Bregiscomfirmar.Text = "CONFIRMAR";
             this.Bregiscomfirmar.UseVisualStyleBackColor = true;
+            this.Bregiscomfirmar.Click += new System.EventHandler(this.Bregiscomfirmar_Click);
             // 
             // Bvoltar
             // 

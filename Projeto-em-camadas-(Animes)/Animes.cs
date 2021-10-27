@@ -19,6 +19,11 @@ namespace Projeto_em_camadas__Animes_
 
         private void label6_Click(object sender, EventArgs e)
         {
+            // so colocando uns comentarios aleatorios
+        }
+
+        private void Bregistrar_Click(object sender, EventArgs e)
+        {
 
         }
     }

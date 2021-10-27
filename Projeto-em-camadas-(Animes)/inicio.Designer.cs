@@ -54,6 +54,7 @@ namespace Projeto_em_camadas__Animes_
             this.BverAnimes.TabIndex = 1;
             this.BverAnimes.Text = "IR";
             this.BverAnimes.UseVisualStyleBackColor = true;
+            this.BverAnimes.Click += new System.EventHandler(this.BverAnimes_Click);
             // 
             // label3
             // 

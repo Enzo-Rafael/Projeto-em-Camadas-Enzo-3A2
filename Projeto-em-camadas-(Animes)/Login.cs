@@ -19,6 +19,11 @@ namespace Projeto_em_camadas__Animes_
 
         private void label3_Click(object sender, EventArgs e)
         {
+            //Criada errada
+        }
+
+        private void Bconfirmar_Click(object sender, EventArgs e)
+        {
 
         }
     }

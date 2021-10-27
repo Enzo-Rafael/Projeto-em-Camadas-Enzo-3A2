@@ -165,6 +165,7 @@ namespace Projeto_em_camadas__Animes_
             this.Bregistrar.TabIndex = 13;
             this.Bregistrar.Text = "CONFIRMAR";
             this.Bregistrar.UseVisualStyleBackColor = true;
+            this.Bregistrar.Click += new System.EventHandler(this.Bregistrar_Click);
             // 
             // Bvoltar
             // 
